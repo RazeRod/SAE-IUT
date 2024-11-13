@@ -1,5 +1,3 @@
-Voici un modèle de fichier README pour GitHub qui décrit votre projet de manière claire et engageante :
-
 ---
 
 # Gestion des Villes - Application en C
