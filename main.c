@@ -41,4 +41,3 @@ int main() {
     fclose(fichier);
     return 0;
 }
-1
